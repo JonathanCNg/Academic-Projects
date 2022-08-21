@@ -4,9 +4,9 @@ Games and programs that I've made at Pasadena City College.
 
 AIs | #1 Minesweeper AI | #2 Big 2
 :-------------------------:|:-------------------------:|:-------------------------:
-**Sample** | dwd | [<img src="Samples/big2-sample.gif" height='250'/>](https://github.com/JonathanCNg/Big-2-Game#readme)
-**Tools** | dwd | [C++](https://www.cplusplus.com/), [SFML](https://www.sfml-dev.org/)
-**GitHub** | dwd | [Big 2 Repo](https://github.com/JonathanCNg/Big-2-Game)
+**Sample** | [<img src="Samples/Minesweeper AI Demo.gif" height='250'/>](https://github.com/JonathanCNg/Minesweeper-AI) | [<img src="Samples/big2-sample.gif" height='250'/>](https://github.com/JonathanCNg/Big-2-Game#readme)
+**Tools** | [Python](https://www.python.org/) | [C++](https://www.cplusplus.com/), [SFML](https://www.sfml-dev.org/)
+**GitHub** | [Minesweeper AI Repo](https://github.com/JonathanCNg/Minesweeper-AI) | [Big 2 Repo](https://github.com/JonathanCNg/Big-2-Game)
 
 
 
