@@ -12,6 +12,6 @@ AIs | #1 Minesweeper AI | #2 Big 2
 
 More | #3 Logo Editor | #4 Escape Room 
 :-------------------------:|:-------------------------:|:-------------------------:
-**Sample** | [<img src="Samples/logomaker-sample-2x.gif" height='250'/>](https://github.com/JonathanCNg/Logo-Editor#readme) | [<img src="Samples/escaperoom-sample-crop-3x.gif" height='250'/>](https://github.com/JonathanCNg/Escape-Room-Game)
+**Sample** | [<img src="Samples/logomaker-sample-2x.gif" height='300'/>](https://github.com/JonathanCNg/Logo-Editor#readme) | [<img src="Samples/escaperoom-sample-crop-3x.gif" height='300'/>](https://github.com/JonathanCNg/Escape-Room-Game)
 **Tools** | [C++](https://www.cplusplus.com/), [SFML](https://www.sfml-dev.org/) | [C++](https://www.cplusplus.com/)
 **GitHub** | [Logo Editor Repo](https://github.com/JonathanCNg/Logo-Editor) | [Escape Room Repo](https://github.com/JonathanCNg/Escape-Room-Game)
