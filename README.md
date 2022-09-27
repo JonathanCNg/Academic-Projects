@@ -1,6 +1,6 @@
 # Academic-Projects
 
-Games and programs that I've made at Pasadena City College.
+Games and programs that I've made in academia (University of California, Irvine & Pasadena City College).
 
 AIs | #1 Minesweeper AI | #2 Big 2
 :-------------------------:|:-------------------------:|:-------------------------:
